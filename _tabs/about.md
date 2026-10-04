@@ -97,38 +97,47 @@ order: 1
       <span>Geometric Representations</span>
     </div>
   </section>
-
-
   <section class="about-section">
-    <h2>Technical Skills</h2>
+  <h2>Technical Skills</h2>
 
-    <div class="skill-groups">
+  <div class="skill-groups">
 
-      <div class="skill-group">
-        <h3>Programming & Tools</h3>
-        <p>
-          Python · C++ · Git · VSCode · Docker · Linux · Meshlab · Blender
-        </p>
-      </div>
-
-      <div class="skill-group">
-        <h3>Machine Learning</h3>
-        <p>
-          PyTorch · JAX · CNNs · U-Nets · GNNs · Graph Transformers ·
-          Knowledge Distillation
-        </p>
-      </div>
-
-      <div class="skill-group">
-        <h3>3D Vision & Geometry</h3>
-        <p>
-          OpenCV · Multi-view Geometry · NeRFs · Gaussian Splatting ·
-          Point-cloud Processing · SDFs
-        </p>
-      </div>
-
+    <div class="skill-group">
+      <h3>Programming & Tools</h3>
+      <p>
+        Python · C++ · PyTorch · JAX · NumPy · Pandas · OpenCV ·
+        Git · VSCode · Docker · Linux · Jupyter · Meshlab · Blender
+      </p>
     </div>
+
+    <div class="skill-group">
+      <h3>Machine Learning</h3>
+      <p>
+        CNNs · U-Nets · GNNs · Graph Transformers · Knowledge Distillation ·
+        Representation Learning · Data Augmentation
+      </p>
+    </div>
+
+    <div class="skill-group">
+      <h3>3D Vision & Reconstruction</h3>
+      <p>
+        Multi-view Geometry · SfM · HLOC · NeRFs · Gaussian Splatting ·
+        Point-cloud Processing · Mesh Processing · 3D Reconstruction
+      </p>
+    </div>
+
+    <div class="skill-group">
+      <h3>Geometric Learning</h3>
+      <p>
+        SDFs · Implicit Representations · Shape Reconstruction ·
+        Skeletonization · GNNs · Graph Transformers
+      </p>
+    </div>
+
+  </div>
   </section>
+
+    
 
 
   <section class="about-section">
