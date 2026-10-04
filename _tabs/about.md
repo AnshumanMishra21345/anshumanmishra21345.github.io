@@ -281,23 +281,36 @@ order: 1
 
   .skill-groups {
     display: grid;
-    gap: 1.2rem;
+    gap: 1rem;
   }
 
   .skill-group h3 {
-    font-size: 0.95rem;
-    margin-bottom: 0.35rem;
+    font-size: 0.9rem;
+    margin-bottom: 0.25rem;
   }
 
   .skill-group p {
     margin: 0;
     color: var(--text-muted-color, #6b7280);
-    line-height: 1.7;
+    line-height: 1.6;
+    font-size: 0.9rem;
   }
 
-  .coursework {
+  .coursework-groups {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .coursework-group h3 {
+    font-size: 0.9rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .coursework-group p {
+    margin: 0;
     color: var(--text-muted-color, #6b7280);
-    line-height: 1.8;
+    line-height: 1.6;
+    font-size: 0.9rem;
   }
 
   .dynamic-title,
