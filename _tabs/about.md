@@ -69,26 +69,19 @@ order: 1
 
   <ul class="achievement-list">
     <li>
-      <strong>Google DeepMind APAC Research Symposium 2026</strong> —
-      selected as 1 of 48 students from across India to attend.
+      <strong>Selected as 1 of 48 students from across India</strong> for Google DeepMind's APAC Research Symposium 2026.
     </li>
     <li>
-      <strong>IIT Madras Young Research Fellowship</strong> —
-      selected among the top 25 of 300+ applicants for research in
-      deep learning and computational geometry.
+      <strong>Selected for the IIT Madras Young Research Fellowship</strong> among the top 25 of 300+ applicants for deep learning in computational geometry.
     </li>
     <li>
-      <strong>INR 82k International Travel Grant</strong> —
-      1 of 2 IIT Madras undergraduates funded to attend
-      <strong>A* conferences</strong>.
+      <strong>Received an INR 82k international travel grant</strong> as 1 of 2 IIT Madras undergraduates funded to attend <strong>A* conferences</strong>.
     </li>
     <li>
-      <strong>Ranked 3rd of 78</strong> after sophomore year and earned
-      <strong>9.56 SGPA</strong> in the first semester of M.Tech Data Science.
+      <strong>Ranked 3rd of 78</strong> after sophomore year and earned <strong>9.56 SGPA</strong> in the first semester of M.Tech Data Science.
     </li>
   </ul>
   </section>
-
 
   <section class="about-section">
     <h2>Research Interests</h2>
