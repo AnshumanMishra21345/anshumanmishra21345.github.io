@@ -132,14 +132,46 @@ order: 1
 
 
   <section class="about-section">
-    <h2>Coursework</h2>
+  <h2>Coursework</h2>
 
-    <p class="coursework">
-      Modern Computer Vision · Mathematics for Data Science ·
-      Mechatronics System Design · Probability and Statistics ·
-      Digital Signal Processing · Control Systems ·
-      Data Structures and Algorithms · Human Factors in Design
-    </p>
+  <div class="coursework-groups">
+
+    <div class="coursework-group">
+      <h3>Machine Learning & Vision</h3>
+      <p>
+        Data Science: Theory and Practice · Modern Computer Vision ·
+        Probability, Statistics and Stochastic Processes ·
+        Mathematical Foundations for Data Science <em>(ongoing)</em> ·
+        Programming, Data Structures and Algorithms using Python
+      </p>
+    </div>
+
+    <div class="coursework-group">
+      <h3>Mathematics & Geometry</h3>
+      <p>
+        Functions of Several Variables · Series and Matrices ·
+        Differential Equations · Geometric Modelling and CAD
+      </p>
+    </div>
+
+    <div class="coursework-group">
+      <h3>Robotics & Control</h3>
+      <p>
+        Mechatronics System Design · Control Systems ·
+        Incentive-Centred Design (Advanced Topics in Control) ·
+        Functional and Conceptual Design · Human Factors in Design
+      </p>
+    </div>
+
+    <div class="coursework-group">
+      <h3>Signal Processing & Systems</h3>
+      <p>
+        Digital Signal Processing · Signals and Systems ·
+        Physics of Measurement
+      </p>
+    </div>
+
+  </div>
   </section>
 
 </div>
